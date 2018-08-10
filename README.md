@@ -15,3 +15,10 @@ logistic
 mnist
 housing
 breast cancer wisconsin
+
+## wekk5
+#### method 
+PCA
+K-means
+#### dataset
+mnist
